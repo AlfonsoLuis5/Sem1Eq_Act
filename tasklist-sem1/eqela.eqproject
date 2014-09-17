@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# TaskList_Sem1
+#
+
+projectname: TaskList_Sem1
+vendorid: com.mycompany
+mainmodule: com.mycompany.tasklistsem1
